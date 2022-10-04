@@ -12,7 +12,7 @@
 4. $ ps -A: This lists out all the processes that are both running and not running ![an image of ps -A command](IMG_8593.jpg)
 
 
-5.$ kill -L: This is used to list out different types of kill signals ![an image of kill -L command](IMG_8594.jpg)
+5. $ kill -L: This is used to list out different types of kill signals ![an image of kill -L command](IMG_8594.jpg)
 
 
 6. $ uname: This displays Linux system information ![an image of uname command](IMG_8596.jpg)
